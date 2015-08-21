@@ -1,0 +1,84 @@
+
+@media (max-width: 991px) {
+ 
+@media (max-width: 479px) {
+ 
+
+@font-face {
+  font-family: 'Domaine Display Condensed';
+  src: url('../fonts/DDC-BoldItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Domaine Display Condensed';
+  src: url('../fonts/DDCExtrabold.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Display Condensed';
+  src: url('../fonts/DDCExtraboldItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Domaine Display Condensed';
+  src: url('../fonts/DDCSemibold.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Display Narrow';
+  src: url('../fonts/DDNRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Display';
+  src: url('../fonts/DD-ExtraboldItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'T Star Pro Headline';
+  src: url('../fonts/T-Star-Pro-Headline.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'T Star Pro';
+  src: url('../fonts/TSPRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Display Narrow';
+  src: url('../fonts/DDN-RegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'T Star Pro';
+  src: url('../fonts/T-Star-Pro-Medium.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Display';
+  src: url('../fonts/DomaineDisp-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Display';
+  src: url('../fonts/DomaineDisp-RegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Domaine Display';
+  src: url('../fonts/DDRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
